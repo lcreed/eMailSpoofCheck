@@ -8,7 +8,7 @@ This functionality is part of a larger suite of Gmail Management Functions I'm b
 ![Google Apps Script Gmail Management](https://img.shields.io/badge/Google%20Apps%20Script-Gmail%20Mgmt-orange)
 
 ## License
-This automation is free software. You can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation.
+This automation is free software for personal use.
 
 
 ## Buy me a tea
